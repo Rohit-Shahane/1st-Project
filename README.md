@@ -1,1 +1,1 @@
-# 1st-Project
+The project task includes the study and implementation of Image restoration techniques by modelling the inverse filter, Optimal Wiener Filter and a Pseudo Wiener Filter and using them on noisy and blurry image. 
